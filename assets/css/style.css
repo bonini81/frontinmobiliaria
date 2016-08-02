@@ -827,8 +827,9 @@ ul.list-links li a:hover {
     border-bottom: 1px solid #f3f3f3;
     display: table;
     font-size: 12px;
-    padding: 5px 0;
+    padding: 15px 0;
     width: 100%;
+    background-color: #000;
 }
 .navigation .secondary-navigation a {
     color: #5a5a5a;
