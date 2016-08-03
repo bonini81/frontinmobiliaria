@@ -819,11 +819,13 @@ ul.list-links li a:hover {
     margin: auto;
 }
 .navigation .secondary-navigation {
+    /*
+Ese fade in y Out que estaba en el menu 
     filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=60);
     opacity: 0.6;
     -moz-transition: 0.4s;
     -webkit-transition: 0.4s;
-    transition: 0.4s;
+    transition: 0.4s;*/
     border-bottom: 1px solid #f3f3f3;
     display: table;
     font-size: 12px;
