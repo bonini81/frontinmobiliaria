@@ -2517,7 +2517,7 @@ Ese fade in y Out que estaba en el menu
   font-weight: lighter;
 }
 .property .overlay .additional-info {
-  background-color: #073855;
+  background-color: #d82526;
   display: table;
   height: 30px;
   list-style: none;
@@ -4083,7 +4083,7 @@ input[type="text"]:hover, input[type="email"]:hover, input[type="search"]:hover,
   -moz-transition: 0.2s;
   -webkit-transition: 0.2s;
   transition: 0.2s;
-  background-color: #1396e2;
+  background-color: #d82526;
   color: #fff;
 }
 .btn.btn-default:hover, select.btn-default:hover {
